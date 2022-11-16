@@ -4,7 +4,7 @@
 
 
 .navbar-expand-lg{
-    background-color: #24262b;
+    background-color: #ffffff;
     opacity: 60%;
 }
 
@@ -13,7 +13,8 @@
 
     font-family: 'Roboto', sans-serif;
     font-weight: 400 bold;
-    color: #ffffff;
+    font-size: 30px;
+    color: #24262b;
 }
 
 
